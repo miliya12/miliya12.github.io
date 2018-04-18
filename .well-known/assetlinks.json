@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tech.miliya.applinkssample",
+    "sha256_cert_fingerprints":
+    ["41:4B:91:9A:DD:8D:12:54:65:16:D2:68:98:CF:49:46:84:6B:D5:E2:B7:2A:F6:26:F6:59:C5:A7:1B:79:C9:34"]
+  }
+}]
